@@ -28,7 +28,7 @@ async def start(c, m, cb=False):
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')}
 
-𝐇𝐢, {mention}
+𝐇𝐢, []
 
 ᴛʜɪs ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ..
 
