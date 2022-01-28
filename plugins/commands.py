@@ -28,12 +28,13 @@ async def start(c, m, cb=False):
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')}
 
-💡 ** I am Telegram File Store Bot**
+𝐇𝐢, {mention}
 
-`You can store your Telegram Media for permanent Link!`
+ᴛʜɪs ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ..
 
+𝑆𝑒𝑛𝑑 𝑚𝑒 𝑎𝑛𝑦 𝑓𝑖𝑙𝑒 𝐼 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑦𝑜𝑢 𝑎 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡 𝑆ℎ𝑎𝑟𝑎𝑏𝑙𝑒 𝐿𝑖𝑛𝑘. 𝐼 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝐶ℎ𝑎𝑛𝑛𝑒𝑙 𝐴𝑙𝑠𝑜! 𝐶ℎ𝑒𝑐𝑘 𝐴𝑏𝑜𝑢𝑡 𝐵𝑜𝑡 𝐵𝑢𝑡𝑡𝑜𝑛.
 
-**👲 Maintained By:** {owner.mention(style='md')}
+©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ [ꪖꪶꪶꪊ𝘬𝓲𝘴ꫝꪮ𝘳ꫀ](https://t.me/ALLUKISHORE_OFFICIAL)
 """
 
     # Buttons
