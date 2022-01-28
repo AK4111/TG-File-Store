@@ -62,7 +62,7 @@ async def about_cb(c, m):
     # about text
     about_text = f"""--**My Details:**--
 
-🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='md')}
+🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱(style='md')}
     
 📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: [Python 3](https://www.python.org/)
 
@@ -70,11 +70,11 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [AK](https://t.me/ALLUKISHORE_OFFICIAL)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [AKMR](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
+👥 𝐆𝐫𝐨𝐮𝐩: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [FOOL](https://t.me/)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
 """
 
     # creating buttons
