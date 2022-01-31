@@ -62,20 +62,18 @@ async def about_cb(c, m):
     # about text
     about_text = f"""--**My Details:**--
 
-🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: [𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱](https://t.me/AKFileStoreBot)
+𐌑γ 𐌽ꤌ𐌌ꤕ: [𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱](https://t.me/AKFileStoreBot)
     
-📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: [Python 3](https://www.python.org/)
+𑀉ꤌꤙɠսꤌɠꤕ: [Python 3](https://www.python.org/)
+𐍆꤅ꤌ𐌌ꤕꤗ꤀꤅ӄ: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: [Pyrogram](https://github.com/pyrogram/pyrogram)
+𑀥ꤕ꤂ꤕ꤈꤀ρꤕ꤅: {owner.mention(style='md')}
 
-👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
-
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
-
-👥 𝐆𝐫𝐨𝐮𝐩: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
+𑀗ꤖꤌꤙꤙꤕ꤈: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
+Ᏽ꤅꤀սρ: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
                    [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
+𐍃꤀ս꤅ꤍꤕ 𑀗꤀ꤤꤕ: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
 """
 
     # creating buttons
