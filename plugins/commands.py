@@ -39,10 +39,10 @@ async def start(c, m, cb=False):
     buttons = [
         [
             InlineKeyboardButton('𐌑ꤌ᥉𑀱ꤕ꤅ ', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Help 💡', callback_data="help")
+            InlineKeyboardButton('𐋏ꤕ꤈ρ', callback_data="help")
         ],
         [
-            InlineKeyboardButton('About 📕', callback_data="about")
+            InlineKeyboardButton('𐌀ꤐ꤀ս𑀱', callback_data="about")
         ]
     ]
 
