@@ -73,6 +73,7 @@ async def about_cb(c, m):
 📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
 
 👥 𝐆𝐫𝐨𝐮𝐩: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
+          [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
 
 🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
 """
