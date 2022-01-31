@@ -73,7 +73,7 @@ async def about_cb(c, m):
 𑀗ꤖꤌꤙꤙꤕ꤈: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
 
 Ᏽ꤅꤀սρ: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
-                 [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
+                [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
 
 𐍃꤀ս꤅ꤍꤕ 𑀗꤀ꤤꤕ: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
 """
