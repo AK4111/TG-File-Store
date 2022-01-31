@@ -32,11 +32,11 @@ async def help_cb(c, m):
     # creating buttons
     buttons = [
         [
-            InlineKeyboardButton('Home 🏕', callback_data='home'),
-            InlineKeyboardButton('About 📕', callback_data='about')
+            InlineKeyboardButton('𐋏꤀𐌌ꤕ', callback_data='home'),
+            InlineKeyboardButton('𐌀ꤐ꤀ս𑀱', callback_data='about')
         ],
         [
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('𑀗꤈꤀᥉ꤕ', callback_data='close')
         ]
     ]
 
@@ -80,11 +80,11 @@ async def about_cb(c, m):
     # creating buttons
     buttons = [
         [
-            InlineKeyboardButton('Home 🏕', callback_data='home'),
-            InlineKeyboardButton('Help 💡', callback_data='help')
+            InlineKeyboardButton('𐋏꤀𐌌ꤕ', callback_data='home'),
+            InlineKeyboardButton('𐋏ꤕ꤈ρ', callback_data='help')
         ],
         [
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('𑀗꤈꤀᥉ꤕ', callback_data='close')
         ]
     ]
 
