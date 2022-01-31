@@ -60,18 +60,20 @@ async def about_cb(c, m):
     bot = await c.get_me()
 
     # about text
-    about_text = f"""--**My Details:**--
+    about_text = f"""--**𐌑γ 𑀥ꤕ𑀱ꤌ꤯꤈᥉:**--
 
 𐌑γ 𐌽ꤌ𐌌ꤕ: [𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱](https://t.me/AKFileStoreBot)
     
 𑀉ꤌꤙɠսꤌɠꤕ: [Python 3](https://www.python.org/)
+
 𐍆꤅ꤌ𐌌ꤕꤗ꤀꤅ӄ: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 𑀥ꤕ꤂ꤕ꤈꤀ρꤕ꤅: {owner.mention(style='md')}
 
 𑀗ꤖꤌꤙꤙꤕ꤈: [𐌀𐌺](https://t.me/ALLUKISHORE_OFFICIAL)
+
 Ᏽ꤅꤀սρ: [𐌀𐌺𐌑𐍂](https://t.me/ALLU_KISHORE_MOVIE_REQUEST)
-                   [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
+                 [𐌑𐍂 - 2](https://t.me/+5PTmhXVDCHNiMDk9)
 
 𐍃꤀ս꤅ꤍꤕ 𑀗꤀ꤤꤕ: [𐍆 𐌏 𐌏 𑀉](https://t.me/+SuKq6KMnVa4yZTJl)
 """
