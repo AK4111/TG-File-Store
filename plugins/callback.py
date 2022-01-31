@@ -62,7 +62,7 @@ async def about_cb(c, m):
     # about text
     about_text = f"""--**𐌑γ 𑀥ꤕ𑀱ꤌ꤯꤈᥉:**--
 
-𐌑γ 𐌽ꤌ𐌌ꤕ: [𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱](https://t.me/AKFileStoreBot)
+𐌑γ 𐌽ꤌ𐌌ꤕ: [𐌀𐌺𐍆꤯꤈ꤕ𐍃𑀱꤀꤅ꤕ𐌱꤀𑀱](https://t.me/AKFileStoreRoBot)
     
 𑀉ꤌꤙɠսꤌɠꤕ: [Python 3](https://www.python.org/)
 
