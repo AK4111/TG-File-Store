@@ -47,9 +47,7 @@ async def storefile(c, m):
 
     # making buttons
     buttons = [[
-        InlineKeyboardButton(text="Open Url 🔗", url=url),
-        InlineKeyboardButton(text="Share Link 👤", url=share_url)
-        ],[
+        InlineKeyboardButton(text="Open Url 🔗",url=url),
         InlineKeyboardButton(text="Delete 🗑", callback_data=f"delete+{msg.message_id}")
     ]]
 
@@ -103,7 +101,6 @@ async def storefile_channel(c, m):
     # making buttons
     buttons = [[
         InlineKeyboardButton(text="Open Url 🔗", url=url),
-        InlineKeyboardButton(text="Share Link 👤", url=share_url)
     ]]
 
     # Editing and adding the buttons
