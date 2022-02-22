@@ -32,7 +32,7 @@ async def start(c, m, cb=False):
 
 𝑆𝑒𝑛𝑑 𝑚𝑒 𝑎𝑛𝑦 𝑓𝑖𝑙𝑒 𝐼 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑦𝑜𝑢 𝑎 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡 𝑆ℎ𝑎𝑟𝑎𝑏𝑙𝑒 𝐿𝑖𝑛𝑘. 𝐼 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝐶ℎ𝑎𝑛𝑛𝑒𝑙 𝐴𝑙𝑠𝑜! 𝐶ℎ𝑒𝑐𝑘 𝐴𝑏𝑜𝑢𝑡 𝐵𝑜𝑡 𝐵𝑢𝑡𝑡𝑜𝑛.
 
-©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ [ꪖꪶꪶꪊ𝘬𝓲𝘴ꫝꪮ𝘳ꫀ](https://t.me/ALLUKISHORE_OFFICIAL)
+©️𝙼ᴀɪɴᴛᴀɪɴᴇ𝙳 𝙱ʏ [Aakash](https://t.me/Aakashpriyadarshi)
 """
 
     # Buttons
@@ -181,7 +181,7 @@ async def batch(c, m):
     send = await c.send_message(m.from_user.id, string_base64) if not DB_CHANNEL_ID else await c.send_message(int(DB_CHANNEL_ID), string_base64)
     base64_string = await encode_string(f"batch_{m.chat.id}_{send.message_id}")
     bot = await c.get_me()
-    url = f"https://t.me/AKFILESTOREROBOT?start={base64_string}"
+    url = f"http://t.me/Aakashfilestore_bot?start={base64_string}"
 
     await message.edit(text=url)
 
